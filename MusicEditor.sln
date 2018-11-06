@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicEditor", "MusicEditor.csproj", "{B990060A-F765-6053-8ABF-EA84C5B02B9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicEditor.Editor", "MusicEditor.Editor.csproj", "{BC4AEA39-77DE-BE4B-ABD6-B488E90288D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B990060A-F765-6053-8ABF-EA84C5B02B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B990060A-F765-6053-8ABF-EA84C5B02B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B990060A-F765-6053-8ABF-EA84C5B02B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B990060A-F765-6053-8ABF-EA84C5B02B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC4AEA39-77DE-BE4B-ABD6-B488E90288D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4AEA39-77DE-BE4B-ABD6-B488E90288D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4AEA39-77DE-BE4B-ABD6-B488E90288D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4AEA39-77DE-BE4B-ABD6-B488E90288D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

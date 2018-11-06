@@ -1,0 +1,338 @@
+{
+  "Name": "Audio_002",
+  "SourceClipName": "Audio_002",
+  "SampleRate": 44100,
+  "BPM": 120,
+  "Tracks": [
+    {
+      "Name": "Track_002_1",
+      "Notes": [
+        {
+          "Type": "TextPayload",
+          "Val": "A",
+          "StartSample": 176400,
+          "EndSample": 176400,
+          "StartTime": 4000,
+          "EndTime": 4000
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "A",
+          "StartSample": 396900,
+          "EndSample": 396900,
+          "StartTime": 9000,
+          "EndTime": 9000
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "A",
+          "StartSample": 727650,
+          "EndSample": 727650,
+          "StartTime": 16500,
+          "EndTime": 16500
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "A",
+          "StartSample": 749700,
+          "EndSample": 749700,
+          "StartTime": 17000,
+          "EndTime": 17000
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "A",
+          "StartSample": 926100,
+          "EndSample": 926100,
+          "StartTime": 21000,
+          "EndTime": 21000
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "A",
+          "StartSample": 948150,
+          "EndSample": 948150,
+          "StartTime": 21500,
+          "EndTime": 21500
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "A",
+          "StartSample": 1411200,
+          "EndSample": 1411200,
+          "StartTime": 32000,
+          "EndTime": 32000
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "A",
+          "StartSample": 1697850,
+          "EndSample": 1697850,
+          "StartTime": 38500,
+          "EndTime": 38500
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "A",
+          "StartSample": 2028600,
+          "EndSample": 2028600,
+          "StartTime": 46000,
+          "EndTime": 46000
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "A",
+          "StartSample": 2579850,
+          "EndSample": 2579850,
+          "StartTime": 58500,
+          "EndTime": 58500
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "A",
+          "StartSample": 2976750,
+          "EndSample": 2976750,
+          "StartTime": 67500,
+          "EndTime": 67500
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "A",
+          "StartSample": 3417750,
+          "EndSample": 3417750,
+          "StartTime": 77500,
+          "EndTime": 77500
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "A",
+          "StartSample": 3902850,
+          "EndSample": 3902850,
+          "StartTime": 88500,
+          "EndTime": 88500
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "A",
+          "StartSample": 4454100,
+          "EndSample": 4454100,
+          "StartTime": 101000,
+          "EndTime": 101000
+        }
+      ]
+    },
+    {
+      "Name": "Track_002_2",
+      "Notes": [
+        {
+          "Type": "TextPayload",
+          "Val": "D",
+          "StartSample": 44100,
+          "EndSample": 44100,
+          "StartTime": 1000,
+          "EndTime": 1000
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "D",
+          "StartSample": 132300,
+          "EndSample": 132300,
+          "StartTime": 3000,
+          "EndTime": 3000
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "D",
+          "StartSample": 242550,
+          "EndSample": 242550,
+          "StartTime": 5500,
+          "EndTime": 5500
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "D",
+          "StartSample": 352800,
+          "EndSample": 352800,
+          "StartTime": 8000,
+          "EndTime": 8000
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "D",
+          "StartSample": 418950,
+          "EndSample": 418950,
+          "StartTime": 9500,
+          "EndTime": 9500
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "D",
+          "StartSample": 529200,
+          "EndSample": 529200,
+          "StartTime": 12000,
+          "EndTime": 12000
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "D",
+          "StartSample": 617400,
+          "EndSample": 617400,
+          "StartTime": 14000,
+          "EndTime": 14000
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "D",
+          "StartSample": 793800,
+          "EndSample": 793800,
+          "StartTime": 18000,
+          "EndTime": 18000
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "D",
+          "StartSample": 1014300,
+          "EndSample": 1014300,
+          "StartTime": 23000,
+          "EndTime": 23000
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "D",
+          "StartSample": 1190700,
+          "EndSample": 1190700,
+          "StartTime": 27000,
+          "EndTime": 27000
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "D",
+          "StartSample": 1345050,
+          "EndSample": 1345050,
+          "StartTime": 30500,
+          "EndTime": 30500
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "D",
+          "StartSample": 1455300,
+          "EndSample": 1455300,
+          "StartTime": 33000,
+          "EndTime": 33000
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "D",
+          "StartSample": 1653750,
+          "EndSample": 1653750,
+          "StartTime": 37500,
+          "EndTime": 37500
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "D",
+          "StartSample": 1830150,
+          "EndSample": 1830150,
+          "StartTime": 41500,
+          "EndTime": 41500
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "D",
+          "StartSample": 2072700,
+          "EndSample": 2072700,
+          "StartTime": 47000,
+          "EndTime": 47000
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "D",
+          "StartSample": 2249100,
+          "EndSample": 2249100,
+          "StartTime": 51000,
+          "EndTime": 51000
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "D",
+          "StartSample": 2447550,
+          "EndSample": 2447550,
+          "StartTime": 55500,
+          "EndTime": 55500
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "D",
+          "StartSample": 2469600,
+          "EndSample": 2469600,
+          "StartTime": 56000,
+          "EndTime": 56000
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "D",
+          "StartSample": 2668050,
+          "EndSample": 2668050,
+          "StartTime": 60500,
+          "EndTime": 60500
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "D",
+          "StartSample": 2844450,
+          "EndSample": 2844450,
+          "StartTime": 64500,
+          "EndTime": 64500
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "D",
+          "StartSample": 3064950,
+          "EndSample": 3064950,
+          "StartTime": 69500,
+          "EndTime": 69500
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "D",
+          "StartSample": 3351600,
+          "EndSample": 3351600,
+          "StartTime": 76000,
+          "EndTime": 76000
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "D",
+          "StartSample": 3660300,
+          "EndSample": 3660300,
+          "StartTime": 83000,
+          "EndTime": 83000
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "D",
+          "StartSample": 4057200,
+          "EndSample": 4057200,
+          "StartTime": 92000,
+          "EndTime": 92000
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "D",
+          "StartSample": 4476150,
+          "EndSample": 4476150,
+          "StartTime": 101500,
+          "EndTime": 101500
+        },
+        {
+          "Type": "TextPayload",
+          "Val": "D",
+          "StartSample": 4740750,
+          "EndSample": 4740750,
+          "StartTime": 107500,
+          "EndTime": 107500
+        }
+      ]
+    }
+  ]
+}
